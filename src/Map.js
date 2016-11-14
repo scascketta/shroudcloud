@@ -69,7 +69,7 @@ export default class Map extends Component {
     const bounds = this.map.getBounds();
     const zoom = this.map.getZoom()
     const blockSize = {
-      18: 0.0004,
+      18: 0.0001,
       17: 0.0005,
       16: 0.0008,
       15: 0.001,
@@ -105,11 +105,6 @@ export default class Map extends Component {
 
   onEachFog = (feature, layer) => {
     layer.setStyle({
-      fillColor: '#000',
-    	color: "#888",
-    	weight: 0.5,
-    	opacity: 0,
-    	fillOpacity: 0.8,
       interactive: false,
       className: 'fog'
     });

@@ -1,0 +1,10 @@
+.Map {
+  width: 100vw;
+  height: 100vh;
+  background: red;
+}
+
+.fog {
+  filter: url(#dropshadow);
+  /*mix-blend-mode: screen;*/
+}

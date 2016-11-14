@@ -24,3 +24,10 @@ I've also spent a decent amount of time going to events at the Omni:
 
 ![image](https://cloud.githubusercontent.com/assets/1275831/20250560/a753d70c-a9d5-11e6-9059-2a47a2fa9c55.png)
 
+
+----------
+
+Inspired by:
+
+- https://twitter.com/runthebeans/status/797658721010728960
+- https://github.com/theopolisme/location-history-visualizer
